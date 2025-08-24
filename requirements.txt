@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+openai
+langchain
+langchain-openai
+pinecone-client
+pydantic
+requests
+python-dotenv
+schedule
+sqlalchemy
+pandas
+beautifulsoup4
+aiohttp
+jinja2
